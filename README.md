@@ -1,12 +1,10 @@
-## Hi, there 👋 
+## Hi, there 👋
 
 #### I'm a Software Developer @ [Mphasis](https://www.mphasis.com/home.html)
 
 #### Now
-- 🔭  I’m currently working on [steampipe](https://steampipe.io/)<br />
-- 🌱  I’m currently learning Golang and how to write documents for everyone.<br />
--  ⚙️  **Weekdays**: `.go`, `.md` 
--  💞️  **Weekends**: `.html`, `.css`, `.js`
+- 🔭  I’m currently working as a backend developer<br />
+- 🌱  I’m currently learning typescript and writing clean code.<br />
 - 📫  Reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/subham9418/)](https://www.linkedin.com/in/subham9418/)
 
 <!---
