@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-#### I'm a Software Developer @ [Mphasis](https://www.mphasis.com/home.html)
+#### I'm a Software Developer @ [Aqua Security](https://www.aquasec.com/)
 
 #### Now
 - 🔭  I’m currently working as a backend developer<br />
